@@ -1,0 +1,14 @@
+C:\Projects\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.exe
+C:\Projects\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.deps.json
+C:\Projects\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.runtimeconfig.json
+C:\Projects\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.dll
+C:\Projects\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.pdb
+C:\Projects\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.AssemblyInfoInputs.cache
+C:\Projects\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.AssemblyInfo.cs
+C:\Projects\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Projects\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.dll
+C:\Projects\FirstProject\FirstProject\obj\Debug\net8.0\refint\FirstProject.dll
+C:\Projects\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.pdb
+C:\Projects\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.genruntimeconfig.cache
+C:\Projects\FirstProject\FirstProject\obj\Debug\net8.0\ref\FirstProject.dll
